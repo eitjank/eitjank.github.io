@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Eitvydo Hugo Site</title>
+    
+    
+    
+    <link>https://eitjank.github.io/posts/</link>
+    <description>Recent content in Posts on Eitvydo Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 30 Sep 2023 22:42:19 +0300</lastBuildDate>
+    
+	<atom:link href="https://eitjank.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Everest</title>
+      <link>https://eitjank.github.io/posts/everest/</link>
+      <pubDate>Sat, 30 Sep 2023 22:42:19 +0300</pubDate>
+      
+      <guid>https://eitjank.github.io/posts/everest/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Mount Everest, the tallest mountain in the world, continues to grow. Due to the collision of the Indian and Eurasian tectonic plates, Everest&amp;rsquo;s height increases by about 0.04 inches (1 millimeter) every year.
+          
+        
+        </description>
+    </item>
+    
+  </channel>
+</rss>

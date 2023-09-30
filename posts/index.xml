@@ -9,10 +9,31 @@
     <description>Recent content in Posts on Eitvydo Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 30 Sep 2023 22:42:19 +0300</lastBuildDate>
+    <lastBuildDate>Sat, 30 Sep 2023 22:47:30 +0300</lastBuildDate>
     
 	<atom:link href="https://eitjank.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Code</title>
+      <link>https://eitjank.github.io/posts/code/</link>
+      <pubDate>Sat, 30 Sep 2023 22:47:30 +0300</pubDate>
+      
+      <guid>https://eitjank.github.io/posts/code/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          
+int n = 100; std::vector&amp;lt;char&amp;gt; isPrime(n + 1, true); isPrime[0] = isPrime[1] = false; for (int i = 2; i &amp;lt;= n; i++) { if (isPrime[i]) { std::cout &amp;lt;&amp;lt; i &amp;lt;&amp;lt; &amp;#39; &amp;#39;; for (int j = i + i; j &amp;lt;= n; j += i) { isPrime[j] = false; } } } 
+          
+        
+        </description>
+    </item>
     
     <item>
       <title>Everest</title>
